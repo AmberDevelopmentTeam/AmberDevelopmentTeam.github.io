@@ -111,6 +111,16 @@ const members = [
       { icon: 'discord', link: 'https://pcoiscript.xyz/discord/' }
     ]
   },
+
+    {
+    avatar: 'https://cdn.discordapp.com/attachments/1098339231451074670/1166142324695380079/5fda323289ad8d521aa5c6a6e3ea938b.jpg?ex=654969ac&is=6536f4ac&hm=3814ab4c5b7585d68ab15eb9070dcabad19ca740e1386e84d07bc90e762a06e0&',
+    name: 'Natzu',
+    title: 'Cabaye (Documentation Tester)',
+    links: [
+      { icon: 'youtube', link: 'https://www.youtube.com/@NatzuOff/videos' },
+      { icon: 'discord', link: 'https://discord.com/users/614752212752793610' }
+    ]
+  },
 ]
 </script>
 
