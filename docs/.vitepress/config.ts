@@ -14,7 +14,7 @@ export default defineConfig({
         text: 'Modules',
         items: [
           { text: 'Audio Manager', link: '/modules/audio-manager' },
-          { text: 'Randomizer', link: '/modules/randomizer' },
+          //{ text: 'Randomizer', link: '/modules/randomizer' },
         ],
       },
     ],
@@ -24,7 +24,7 @@ export default defineConfig({
         text: 'Modules',
         items: [
           { text: 'Audio Manager', link: '/modules/audio-manager' },
-          { text: 'Randomizer', link: '/modules/randomizer' },
+         // { text: 'Randomizer', link: '/modules/randomizer' },
         ],
       },
     ],
