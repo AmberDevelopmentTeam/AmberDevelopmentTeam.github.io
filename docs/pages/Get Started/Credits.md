@@ -37,4 +37,3 @@ Thanks for every developers & testers that helped Magic Modules!
 ## Testers
 
 <VPTeamMembers size="small" :members="testers" />
-C
