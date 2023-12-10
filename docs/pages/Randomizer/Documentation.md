@@ -9,7 +9,7 @@ next: false
 
 ## Install the module
 
-Go on [github](https://github.com/AmberDevelopmentTeam/Randomizer) then install the source code. After this, import it on roblox studio, preferally on ReplicatedStorage.
+Go on [github](https://github.com/MagicModules/Randomizer) then install the source code. After this, import it on roblox studio, preferally on ReplicatedStorage.
 ![Explorer](https://cdn.discordapp.com/attachments/1098339231451074670/1166146609592148098/image.png?ex=65496da9&is=6536f8a9&hm=5875e48d976296f5c7b492fcfb9b933d463b874722876d2b53fe9c7e5448b021&)
 
 ## Use the module
