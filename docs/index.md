@@ -6,7 +6,7 @@ hero:
   text: Magic Modules
   tagline: The magic wand behind your roblox game.
   image:
-    src: https://github.com/MagicModules/MagicModules.github.io/blob/main/docs/icons/icon.png
+    src: https://github.com/MagicModules/MagicModules.github.io/blob/main/docs/icons/icon.png?raw=true
     alt: MModules
   actions:
     - theme: brand
