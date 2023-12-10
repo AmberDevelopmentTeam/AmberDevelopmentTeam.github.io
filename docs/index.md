@@ -13,7 +13,7 @@ hero:
       text: Get Started
       link: /pages/Get Started/What Is MModules
     - theme: alt
-      text: API Reference
+      text: View On Github
       link: https://github.com/MagicModules
 features:
   - icon: 🪄
