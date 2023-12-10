@@ -3,30 +3,78 @@ import { defineConfig } from 'vitepress';
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
   lang: 'en-US',
-  title: 'Amber Development',
-  description: 'best & simpliest module on roblox studio.',
+  title: 'MModules',
+  description: 'The magic wand behind your roblox game.',
 
   themeConfig: {
-    nav: [
-      //{ text: 'Example', link: '/example' },
-
-      {
-        text: 'Modules',
-        items: [
-          { text: 'Audio Manager', link: '/modules/audio-manager' },
-          { text: 'Randomizer', link: '/modules/randomizer' },
-          { text: 'Layout Order', link: '/modules/layout-order' },
-        ],
-      },
-    ],
-
     sidebar: [
       {
         text: 'Modules',
         items: [
-          { text: 'Audio Manager', link: '/modules/audio-manager' },
-          { text: 'Randomizer', link: '/modules/randomizer' },
-          { text: 'Layout Order', link: '/modules/layout-order' },
+          {
+            text: 'Get Started',
+            collapsed: false,
+            items: [
+              {
+                text: 'What is MModules?',
+                link: '/pages/Get Started/What Is MModules',
+              },
+              {
+                text: 'Our Terms of Service',
+                //link: '/pages/Audio Manager/Introduction',
+              },
+              {
+                text: 'Deploy',
+                //link: '/pages/Audio Manager/Introduction',
+              },
+              {
+                text: 'Credits',
+                link: '/pages/Get Started/Credits',
+              },
+            ],
+          },
+          {
+            text: 'Audio Manager',
+            collapsed: false,
+            items: [
+              {
+                text: 'Introduction',
+                link: '/pages/Audio Manager/Introduction',
+              },
+              {
+                text: 'Documentation',
+                link: '/pages/Audio Manager/Documentation',
+              },
+            ],
+          },
+          {
+            text: 'Randomizer',
+            collapsed: false,
+            items: [
+              {
+                text: 'Introduction',
+                link: '/pages/Randomizer/Introduction',
+              },
+              {
+                text: 'Documentation',
+                link: '/pages/Randomizer/Documentation',
+              },
+            ],
+          },
+          {
+            text: 'Layout Order',
+            collapsed: false,
+            items: [
+              {
+                text: 'Introduction',
+                link: '/pages/Layout Order/Introduction',
+              },
+              {
+                text: 'Documentation',
+                link: '/pages/Layout Order/Documentation',
+              },
+            ],
+          },
         ],
       },
     ],
