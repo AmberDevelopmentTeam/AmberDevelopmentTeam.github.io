@@ -14,7 +14,7 @@ hero:
       link: /pages/Get Started/What Is MModules
     - theme: alt
       text: API Reference
-      link: https://github.com/AmberDevelopmentTeam
+      link: https://github.com/MagicModules
 features:
   - icon: 🪄
     title: Magical
