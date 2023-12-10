@@ -17,7 +17,7 @@ AudioManager will store your audios in a module to optimize them. AudioManager i
 
 ## Install the module
 
-Go on [github](https://github.com/AmberDevelopmentTeam/AudioManager) then install the source code. After this, import it on roblox studio, preferally on ReplicatedStorage.
+Go on [github](https://github.com/MagicModules/AudioManager) then install the source code. After this, import it on roblox studio, preferally on ReplicatedStorage.
 ![Explorer](https://cdn.discordapp.com/attachments/1165770364903768147/1165770372231204994/image.png?ex=65480f43&is=65359a43&hm=7f9b8acf1883ba4a1c4a38b7edea6f9dc896c0548b721978b76eb9cc069bdb08&)
 
 ## Upload your audio
