@@ -10,7 +10,7 @@ hero:
       link: /pages/Audio Manager/Documentation
     - theme: alt
       text: Github Source
-      link: https://github.com/AmberDevelopmentTeam/AudioManager
+      link: https://github.com/MagicModules/AudioManager
 features:
   - icon: 📈
     title: Performance
