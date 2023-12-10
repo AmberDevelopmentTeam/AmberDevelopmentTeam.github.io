@@ -11,7 +11,7 @@ Create a layout order using an attribute easily.
 
 ## Install the module
 
-Go on [github](https://github.com/MagicModules/Randomizer) then install the source code. After this, import it on roblox studio, preferally on ReplicatedStorage.
+Go on [github](https://github.com/MagicModules/LayoutOrder) then install the source code. After this, import it on roblox studio, preferally on ReplicatedStorage.
 ![Explorer](https://cdn.discordapp.com/attachments/1165770364903768147/1167442877673119835/image.png?ex=654e24e8&is=653bafe8&hm=5efa6127ee526436913d8d35e0f98e6d64c35d8d2e5c30409adb8591a22db25b&)
 
 ## Use the module
