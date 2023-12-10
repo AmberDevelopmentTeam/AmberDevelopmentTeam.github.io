@@ -10,7 +10,7 @@ hero:
       link: /pages/Randomizer/Documentation
     - theme: alt
       text: Github Source
-      link: https://github.com/AmberDevelopmentTeam/Randomizer
+      link: https://github.com/MagicModules/Randomizer
 features:
   - icon: 💪
     title: Strong
