@@ -10,7 +10,7 @@ hero:
       link: /pages/Layout Order/Documentation
     - theme: alt
       text: Github Source
-      link: https://github.com/AmberDevelopmentTeam/LayoutOrder
+      link: https://github.com/MagicModules/LayoutOrder
 features:
   - icon: 💪
     title: Strong
