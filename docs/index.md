@@ -6,7 +6,7 @@ hero:
   text: Magic Modules
   tagline: The magic wand behind your roblox game.
   image:
-    src: 'icons/icon.png'
+    src: './icons/icon.png'
     alt: MModules
   actions:
     - theme: brand
