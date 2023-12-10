@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  text: Layout Order
-  tagline: Layout a Gui Element with a certain attribute within second.
+  text: Randomizer
+  tagline: Script your audios with ease.
   actions:
     - theme: brand
       text: View Documentation
